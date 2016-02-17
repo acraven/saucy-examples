@@ -4,7 +4,7 @@
     {
         public string Ping()
         {
-            return "Pong!";
+            return "PONG!";
         }
     }
 }
